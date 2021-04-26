@@ -1,0 +1,24 @@
+{
+  "name": "seri",
+  "version": "1.0.0",
+  "description": "A discord bot based on commando ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grungee/Seri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Grungee/Seri/issues"
+  },
+  "homepage": "https://github.com/Grungee/Seri#readme"
+}
