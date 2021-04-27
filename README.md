@@ -10,3 +10,4 @@ Every day 1 command will be uploaded
 * **Ping** shows the ping of the bot (commando's default command)
 * **Prefix** change the prefix of the bot (commando's default command)
 * **Server-info** shows the server information
+* **Channel-info** shows the channel information
